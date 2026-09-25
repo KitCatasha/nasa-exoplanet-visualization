@@ -1,5 +1,5 @@
 # nasa-exoplanet-visualization
-Exploratory visualization of NASA exoplanet data, including discovery trends, spatial distributions, and planetary characteristics.
+Exploratory visualization of NASA Exoplanet Archive data, examining discovery trends, spatial distributions, and relationships among planetary and host-star characteristics.
 
 ## Dataset
 
